@@ -23,19 +23,36 @@ namespace tsak_1.Controllers
         {
             _logger = logger;
         }
-       
-        [HttpGet]
-        public double GetVolume(double a,double b,double c)
-        {
-            _logger.LogInformation("BRAT tva raboti");
-            double result = a * b * c;
-            return result;
-        }
-        [HttpPost]
-        public people_info People(people_info a)
-        {
 
-            return a;
+        //[HttpGet]
+        //public IActionResult GetAll()
+        //{
+        //    return Ok();
+        //}
+
+        [HttpGet]
+        [Route("GetById")]
+        public IActionResult GetById(string id)
+        {
+            return Ok();
+        }
+
+        [HttpPost]
+        public IActionResult Post(PeopleInfo model)
+        {
+            return Ok();
+        }
+
+        [HttpPut]
+        public IActionResult Put(string id, PeopleInfo model)
+        {
+            return Ok();
+        }
+
+        [HttpDelete]
+        public IActionResult Delete(string id)
+        {
+            return Ok(id);
         }
 
 
