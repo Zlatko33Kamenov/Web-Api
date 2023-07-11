@@ -4,9 +4,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using TEST1.Models;
+using tsak_1.Models;
 
-namespace TEST1.Controllers
+namespace tsak_1.Controllers
 {
     [ApiController]
     [Route("[controller]")]
@@ -23,22 +23,21 @@ namespace TEST1.Controllers
         {
             _logger = logger;
         }
-
-
+       
         [HttpGet]
-        public double GetCurrency(double currencyBG)
+        public double GetVolume(double a,double b,double c)
         {
-            _logger.LogInformation("stava");
-            var currencyUSD = 1.80;
-            var result = currencyBG * currencyUSD;
+            _logger.LogInformation("BRAT tva raboti");
+            double result = a * b * c;
             return result;
         }
-
         [HttpPost]
-        public Currency Currency(Currency model)
+        public people_info People(people_info a)
         {
-            
-            return model;
+
+            return a;
         }
+
+
     }
 }

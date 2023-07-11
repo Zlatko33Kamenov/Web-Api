@@ -1,0 +1,29 @@
+C:\Users\User\Desktop\workspace\TEST\tsak 1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\workspace\TEST\tsak 1\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\workspace\TEST\tsak 1\bin\Debug\net5.0\tsak 1.exe
+C:\Users\User\Desktop\workspace\TEST\tsak 1\bin\Debug\net5.0\tsak 1.deps.json
+C:\Users\User\Desktop\workspace\TEST\tsak 1\bin\Debug\net5.0\tsak 1.runtimeconfig.json
+C:\Users\User\Desktop\workspace\TEST\tsak 1\bin\Debug\net5.0\tsak 1.runtimeconfig.dev.json
+C:\Users\User\Desktop\workspace\TEST\tsak 1\bin\Debug\net5.0\tsak 1.dll
+C:\Users\User\Desktop\workspace\TEST\tsak 1\bin\Debug\net5.0\ref\tsak 1.dll
+C:\Users\User\Desktop\workspace\TEST\tsak 1\bin\Debug\net5.0\tsak 1.pdb
+C:\Users\User\Desktop\workspace\TEST\tsak 1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\workspace\TEST\tsak 1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\workspace\TEST\tsak 1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\workspace\TEST\tsak 1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\workspace\TEST\tsak 1\obj\Debug\net5.0\tsak 1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\workspace\TEST\tsak 1\obj\Debug\net5.0\tsak 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\workspace\TEST\tsak 1\obj\Debug\net5.0\tsak 1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\workspace\TEST\tsak 1\obj\Debug\net5.0\tsak 1.AssemblyInfo.cs
+C:\Users\User\Desktop\workspace\TEST\tsak 1\obj\Debug\net5.0\tsak 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\workspace\TEST\tsak 1\obj\Debug\net5.0\tsak 1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\workspace\TEST\tsak 1\obj\Debug\net5.0\tsak 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\workspace\TEST\tsak 1\obj\Debug\net5.0\staticwebassets\tsak 1.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\workspace\TEST\tsak 1\obj\Debug\net5.0\staticwebassets\tsak 1.StaticWebAssets.xml
+C:\Users\User\Desktop\workspace\TEST\tsak 1\obj\Debug\net5.0\scopedcss\bundle\tsak 1.styles.css
+C:\Users\User\Desktop\workspace\TEST\tsak 1\obj\Debug\net5.0\tsak 1.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\workspace\TEST\tsak 1\obj\Debug\net5.0\tsak 1.csproj.CopyComplete
+C:\Users\User\Desktop\workspace\TEST\tsak 1\obj\Debug\net5.0\tsak 1.dll
+C:\Users\User\Desktop\workspace\TEST\tsak 1\obj\Debug\net5.0\ref\tsak 1.dll
+C:\Users\User\Desktop\workspace\TEST\tsak 1\obj\Debug\net5.0\tsak 1.pdb
+C:\Users\User\Desktop\workspace\TEST\tsak 1\obj\Debug\net5.0\tsak 1.genruntimeconfig.cache
