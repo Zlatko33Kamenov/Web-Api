@@ -56,3 +56,8 @@ C:\Users\User\Desktop\workspace\rer\tsak 1\obj\Debug\net5.0\tsak 1.dll
 C:\Users\User\Desktop\workspace\rer\tsak 1\obj\Debug\net5.0\ref\tsak 1.dll
 C:\Users\User\Desktop\workspace\rer\tsak 1\obj\Debug\net5.0\tsak 1.pdb
 C:\Users\User\Desktop\workspace\rer\tsak 1\obj\Debug\net5.0\tsak 1.genruntimeconfig.cache
+C:\Users\User\Desktop\workspace\rer\tsak 1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\workspace\rer\tsak 1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\workspace\rer\tsak 1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\User\Desktop\workspace\rer\tsak 1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\workspace\rer\tsak 1\bin\Debug\net5.0\Newtonsoft.Json.dll

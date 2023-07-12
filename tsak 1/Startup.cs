@@ -11,6 +11,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using tsak_1.Database;
 
 namespace tsak_1
 {
@@ -32,6 +33,9 @@ namespace tsak_1
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "tsak_1", Version = "v1" });
             });
+
+            //services.AddEntityFrameworkInMemoryDatabase();
+            services.AddScoped<DataContext>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

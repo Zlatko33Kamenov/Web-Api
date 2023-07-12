@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-
-namespace tsak_1.Models
+namespace tsak_1.Models.People
 {
-    public class PeopleInfo
+    public class PeopleCreate
     {
+        //public int Id { get; set; }
         public string FirstName { get; set; }
         public uint Age { get; set; }
         public DateTime DateOfBirth { get; set; }
