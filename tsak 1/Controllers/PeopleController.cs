@@ -38,12 +38,20 @@ namespace tsak_1.Controllers
         public IActionResult GetById(int id)
         {
             var people = _dataContext.Peoples.Find(id);
+            if (people == null)
+            {
+                return BadRequest($"People with id:{id} does not exist.");
+            }
             return Ok($"Find By Id:{JsonConvert.SerializeObject(people)}");
         }
 
         [HttpPost]
         public IActionResult Post(PeopleCreate model)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest();
+            }
             var dbModel = new tsak_1.Database.DbModels.People();
             dbModel.FirstName = model.FirstName;
             dbModel.LastName = model.LastName;
@@ -61,6 +69,10 @@ namespace tsak_1.Controllers
         public IActionResult Put(int id, PeopleUpdate model)
         {
             var people = _dataContext.Peoples.Find(id);
+            if (people == null)
+            {
+                return BadRequest($"People with id:{id} does not exist.");
+            }
             people.LastName = model.LastName;
             people.MiddleName = model.MiddleName;
             _dataContext.SaveChanges();
